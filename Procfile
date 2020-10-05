@@ -1,0 +1,1 @@
+web: sh heroku-webservice/target/bin/proxy
